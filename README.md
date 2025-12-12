@@ -1,24 +1,30 @@
-<h1 align="center">Hey there 👋, I'm Vignesh</h1>
-<h3 align="center">💡 Curious Learner | 🧠 AI/ML Enthusiast | 🌍 Building towards a global tech career</h3>
+<h1 align="center">Hey 👋, I'm Vignesh</h1>
+<h3 align="center">🧠 AI/ML Learner | 💻 Web Dev Enthusiast | 🚀 Growing Towards Global Tech</h3>
+
+---
+
+## 🎬 My Dev Journey (Short Clip)
+
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" alt="developer gif" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🚀 Currently exploring **AI/ML, full-stack basics, and real-world projects**
-- 📚 Improving my skills in **Python, Prompt Engineering, Git/GitHub & ML fundamentals**
-- 🤝 Open to collaborating on **AI tools, automation scripts & innovative projects**
-- 💬 Feel free to ask me about **Python, Hosting, HTML/CSS, or Optimization**
-- 📩 Reach me at **vigneshgunishetti@gmail.com**
-- ⚡ Fun fact: I learn faster when I break things and fix them again 😄
+- 🚀 Working on **AI/ML projects & portfolio building**
+- 🔧 Building strong foundations in **Python, GitHub & Machine Learning**
+- 💬 Ask me about **Python, Hosting, HTML/CSS**
+- 🤝 Looking to collaborate on **open-source ML tools**
+- 📧 Contact: **vigneshgunishetti@gmail.com**
+- ⚡ Fun fact: I don’t code for hours… hours code for me 😎
 
 ---
 
-## 🛠️ Tech Stack / Skills
+## 🛠️ Technologies I Use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,python,bootstrap,tailwind,git,github,vscode" />
@@ -26,13 +32,17 @@
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/vignesh-gunishetti/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:vigneshgunishetti@gmail.com"><img src="https://img.shields.io/badge/Email-d44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vignesh-gunishetti/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:vigneshgunishetti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-d44638?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
-<p align="center"><i>Fueled by curiosity, consistency, and lots of caffeine ☕✨</i></p>
+<p align="center"><i>Learning every day, improving every night — powered by caffeine ☕🔥</i></p>
