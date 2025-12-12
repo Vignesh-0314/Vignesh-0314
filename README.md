@@ -3,7 +3,7 @@
 
 ---
 
-## 🎬 My Dev Journey (Short Clip)
+## 🎬 My Dev Journey
 
 
 
