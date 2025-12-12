@@ -1,37 +1,38 @@
-<!DOCTYPE html>
-<html>
-  <body style="font-family: sans-serif; line-height: 1.5; max-width: 720px; margin: auto; padding: 20px;">
+<h1 align="center">Hey there 👋, I'm Vignesh</h1>
+<h3 align="center">💡 Curious Learner | 🧠 AI/ML Enthusiast | 🌍 Building towards a global tech career</h3>
 
-<h1>Hi, I'm Vignesh 👋</h1>
-<p>A short introduction about who you are, what you’re learning, and what you like to build.</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+</p>
 
-<hr>
+---
 
-<h2>🎯 Goals</h2>
-<ul>
-  <li>Goal 1</li>
-  <li>Goal 2</li>
-  <li>Goal 3</li>
-</ul>
+## 🌟 About Me
 
-<h2>📹 Short Intro Video</h2>
-<p>Embed your video by replacing the ID below:</p>
-<iframe 
-  width="100%" 
-  height="250" 
-  src="https://www.youtube.com/embed/YOUTUBE_VIDEO_ID" 
-  frameborder="0" 
-  allowfullscreen>
-</iframe>
+- 🚀 Currently exploring **AI/ML, full-stack basics, and real-world projects**
+- 📚 Improving my skills in **Python, Prompt Engineering, Git/GitHub & ML fundamentals**
+- 🤝 Open to collaborating on **AI tools, automation scripts & innovative projects**
+- 💬 Feel free to ask me about **Python, Hosting, HTML/CSS, or Optimization**
+- 📩 Reach me at **vigneshgunishetti@gmail.com**
+- ⚡ Fun fact: I learn faster when I break things and fix them again 😄
 
-<h2>🔗 Links</h2>
-<ul>
-  <li><a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a></li>
-  <li><a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a></li>
-</ul>
+---
 
-<hr>
-<p>Thanks for visiting! ⭐</p>
+## 🛠️ Tech Stack / Skills
 
-  </body>
-</html>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,python,bootstrap,tailwind,git,github,vscode" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/vignesh-gunishetti/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:vigneshgunishetti@gmail.com"><img src="https://img.shields.io/badge/Email-d44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center"><i>Fueled by curiosity, consistency, and lots of caffeine ☕✨</i></p>
