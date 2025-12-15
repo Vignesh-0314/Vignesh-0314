@@ -41,6 +41,9 @@
   <a href="mailto:vigneshgunishetti@gmail.com">
     <img src="https://img.shields.io/badge/Email-d44638?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://my-portfolio-0328.vercel.app/"> 
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"> 
+  </a>
 </p>
 
 ---
