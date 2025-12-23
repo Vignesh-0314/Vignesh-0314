@@ -42,8 +42,9 @@
     <img src="https://img.shields.io/badge/Email-d44638?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://my-portfolio-0328.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00eaff">
+    <img src="https://img.shields.io/badge/My%20Portfolio-198754?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
+
 </p>
 
 ---
